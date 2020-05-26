@@ -18,12 +18,23 @@ This Strategic Plan sets out the strategy the IETF Administration LLC aims to ac
 
 
 
-1. **Mission**.  This is a literal definition of what the IETF LLC does.  The mission rarely changes in the lifetime of the company.
-2. **Values**.  These define how the company behaves as it follows its mission. These may change over time to reflect broader social changes.
-3. **Strategic Goals**.  The highest priority goals of the IETF LLC.  These may be short-, medium- or long-term goals or a mix.  These are the big picture of what the IETF LLC is aiming to do in the next 3-5 years and so are the key setting that the board expects the company to follow.
-4. **Strategic Transformations**.  These detail the changes that need to be made in order to achieve the strategic goals.   Each transformation details the current state and the desired state to transform into. These transformations should be achievable within 1-3 years.
+1. **Linkages**.  The organisations and communities that the IETF LLC is linked to and how that linkage is the top-level driver of the IETF LLC strategy. 
+2. **Mission**.  This is a literal definition of what the IETF LLC does.  The mission rarely changes in the lifetime of the company.
+3. **Values**.  These define how the company behaves as it follows its mission. These may change over time to reflect broader social changes.
+4. **Strategic Goals**.  The highest priority goals of the IETF LLC.  These may be short-, medium- or long-term goals or a mix.  These are the big picture of what the IETF LLC is aiming to do in the next 3-5 years and so are the key setting that the board expects the company to follow.
+5. **Strategic Transformations**.  These detail the changes that need to be made in order to achieve the strategic goals.   Each transformation details the current state and the desired state to transform into. These transformations should be achievable within 1-3 years.
 
 The next level below this Strategic Plan is the various operational plans such as the IETF Comms Plan and the ED Goals, which are where specific projects and specific measures of success are defined.
+
+
+## Linkages
+
+As set out in [RFC 8711](https://tools.ietf.org/html/rfc8711), the IETF LLC provides the corporate legal home for the IETF, the Internet Architecture Board (IAB), and the Internet Research Task Force (IRTF), and financial support for the operation of the RFC Editor.
+
+Consequently, this strategic plan should ideally clearly reflect the strategies of the IETF/IRTF/IAB.  However, as those are neither well understood nor well defined, these are extrapolated from IETF/IRTF/IAB expressed administrative needs and desires.  
+
+Furthermore, as the IETF community is a dynamic one, with leaders and other participants changing at a higher rate than the 3-5 year horizon of this strategic plan, the IETF LLC commits that it will adjust this plan should IETF consensus shift
+
 
 
 ## Mission
@@ -44,8 +55,6 @@ The best possible support corporation to the IETF/IRTF/IAB and their communities
 
 
 ## Strategic Goals
-
-As the IETF LLC is a support organisation to the IETF/IRTF/IAB, the strategic goals should ideally reflect their strategic goals.  However, as those are neither well understood nor well defined, some assumptions are required.
 
 
 
