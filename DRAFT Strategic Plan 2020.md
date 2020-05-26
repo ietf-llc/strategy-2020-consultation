@@ -29,7 +29,7 @@ The next level below this Strategic Plan is the various operational plans such a
 
 ## Linkages
 
-As set out in [RFC 8711](https://tools.ietf.org/html/rfc8711), the IETF LLC provides the corporate legal home for the IETF, the Internet Architecture Board (IAB), and the Internet Research Task Force (IRTF), and financial support for the operation of the RFC Editor.
+As set out in [RFC 8711](https://tools.ietf.org/html/rfc8711), the IETF LLC provides the corporate legal home for the IETF, the Internet Architecture Board (IAB), and the Internet Research Task Force (IRTF), and financial support for the operation of the RFC Editor.  In addition the IETF LLC provides financial support for the operation of the IETF Trust.
 
 Consequently, this strategic plan should ideally clearly reflect the strategies of the IETF/IRTF/IAB.  However, as those are neither well understood nor well defined, these are extrapolated from IETF/IRTF/IAB expressed administrative needs and desires.  
 
