@@ -1,9 +1,20 @@
-# Strategic Plan 2020
+# IETF Administrative Strategic Plan 2020
+
+
+## Background
+
+As set out in [RFC 8711](https://tools.ietf.org/html/rfc8711), the IETF Administration LLC (IETF LLC) was established to provide administrative support to the IETF.  It has no authority over the standards development activities of the IETF.  The responsibilities of the IETF LLC are:
+
+
+*  Operations.  The IETF LLC is responsible for supporting the ongoing operations of the IETF, including meetings and non-meeting activities.
+*  Finances.  The IETF LLC is responsible for managing the IETF's finances and budget.
+*  Fundraising.  The IETF LLC is responsible for raising money on behalf of the IETF.
+*  Compliance.  The IETF LLC is responsible for establishing and enforcing policies to ensure compliance with applicable laws, regulations, and rules.
 
 
 ## Introduction
 
-This Strategic Plan sets out the strategy the IETF Administration LLC aims to achieve over the next 3-5 years.  This strategy comprises the following components:
+This Strategic Plan sets out the strategy the IETF Administration LLC aims to achieve over the next 3-5 years, within the scope of its responsibilities as set out above.  This strategy comprises the following components:
 
 
 
