@@ -59,10 +59,10 @@ The best possible support corporation to the IETF/IRTF/IAB and their communities
 
 
 
-1. To support the IETF in being the predominant standards development organisation (SDO) of choice for those who want to develop Internet protocols that deploy at scale.
+1. To support the IETF in being the standards development organisation (SDO) of choice for those who want to develop Internet protocols that deploy at scale.
 2. To support the IETF/IRTF/IAB in building a strong community of participants at all stages of the participant journey.
 3. To secure long-term funding for the LLC/IETF/IRTF/IAB that is more than sufficient to meet their plans.
-4. To ensure the value of the IETF is well understood by participants and key stakeholders beyond.
+4. To ensure the value of the IETF is well articulated and well understood by supporters.
 5. To rapidly mature the IETF LLC into an organization that fully meets its values and has strong community support and approval.
 6. To deliver a modern and universally well regarded toolchain supporting all the steps of the standards development process.
 7. To provide the high quality planning and support services required for the IETF to hold productive meetings both in-person and online.
