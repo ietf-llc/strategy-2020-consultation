@@ -47,11 +47,12 @@ The best possible support corporation to the IETF/IRTF/IAB and their communities
 
 
 *   **Trusted**.  The LLC will uphold the values and policies of the IETF/IRTF/IAB as if they were its own.
-*   **Transparent**.  The IETF community can expect the LLC to keep it informed about its work and to keep comprehensive records which are public by default and only make them confidential where there is specific justification.
+*   **Transparent**.  The community can expect the LLC to keep it informed about its work and to keep comprehensive records which are public by default and only make them confidential where there is specific justification.
 *   **Responsive**.  The LLC will act consistently with the documented consensus of the IETF community, adapt its decisions in response to consensus-based community guidance, and engage with the community to obtain consensus-based guidance for how it operates where none exists.
 *   **Diligent**.  The LLC will always do its job diligently by following professional best practice, acting ethically and minimising risks.
 *   **Evidence-led**.  The IETF LLC will use evidence, both qualitative and quantitative, as the primary driver of its decision making.
 *   **Focused**.  The LLC will focus solely on its defined role and within its defined mandate.
+*   **Equitable**.  The LLC will deal with all members of the IETF community equitably regardless of sex, race, geography, culture, religion, age, health or other status.
 
 
 ## Strategic Goals
