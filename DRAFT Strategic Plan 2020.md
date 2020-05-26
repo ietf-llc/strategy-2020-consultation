@@ -39,7 +39,7 @@ Furthermore, as the IETF community is a dynamic one, with leaders and other part
 
 ## Mission
 
-The best possible support corporation to the IETF/IRTF/IAB and their communities
+The best possible support corporation to the IETF/IRTF/IAB
 
 
 ## Values
