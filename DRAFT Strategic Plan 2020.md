@@ -77,49 +77,11 @@ The focus currently is very much on developing capability and capacity rather th
 
 ### Transformations: Strategic Planning
 
-
-<table>
-  <tr>
-   <td><strong>#</strong>
-   </td>
-   <td><strong>From</strong>
-   </td>
-   <td><strong> </strong>
-   </td>
-   <td><strong>To</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1
-   </td>
-   <td>Varying levels of strategic planning across IESG, IRSG, IAB and LLC with only loose strategic alignment between individual strategic objectives
-   </td>
-   <td>→
-   </td>
-   <td>LLC strategy closely aligned with the strategic objectives of IESG, IRSG and IAB
-   </td>
-  </tr>
-  <tr>
-   <td>2
-   </td>
-   <td>Multiple demands for spending throughout the year from individual requests and suggestions
-   </td>
-   <td>→
-   </td>
-   <td>Open, annual strategy process that captures community requests/suggestions in a structured process, while still allowing urgent requests at any time
-   </td>
-  </tr>
-  <tr>
-   <td>3
-   </td>
-   <td>Policy set partially complete and not yet bedded in
-   </td>
-   <td>→
-   </td>
-   <td>Policy set complete, fully bedded in and where required by our operating agreement, signed off by ISOC
-   </td>
-  </tr>
-</table>
+| # | From |  | To |
+|:---|:---|---|---|
+| 1 | Varying levels of strategic planning across IESG, IRSG, IAB and LLC with only loose strategic alignment between individual strategic objectives| &rarr; | LLC strategy closely aligned with the strategic objectives of IESG, IRSG and IAB|
+| 2 | Multiple demands for spending throughout the year from individual requests and suggestions | &rarr; | Open, annual strategy process that captures community requests/suggestions in a structured process, while still allowing urgent requests at any time|
+| 3 | Policy set partially complete and not yet bedded in | &rarr; | Policy set complete, fully bedded in and where required by our operating agreement, signed off by ISOC |
 
 
 The LLC strategy process has significant scope for improvement.  Not all of the groups (IETF, IRTF, IAB and LLC) operate a formal strategy process and there is no process to align the outputs of those that do, though with the IESG making one appointment to the LLC board, reasonable alignment with the IESG is ensured.
@@ -134,48 +96,12 @@ The LLC policy set is another key area which binds multiple parts of the IETF, a
 ### Transformations: Engagement
 
 
-<table>
-  <tr>
-   <td><strong>#</strong>
-   </td>
-   <td><strong>From</strong>
-   </td>
-   <td><strong> </strong>
-   </td>
-   <td><strong>To</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>4
-   </td>
-   <td>No clear and supported articulation of the value proposition for the IETF/IRTF/IAB, which hampers engagement with current and potential sponsors
-   </td>
-   <td>→
-   </td>
-   <td>Clear, strongly supported and well articulated value proposition for the IETF/IRTF/IAB for engagement with current and potential sponsors
-   </td>
-  </tr>
-  <tr>
-   <td>5
-   </td>
-   <td>Poor understanding of the entry points, stages and transitions of the participant journey
-   </td>
-   <td>→
-   </td>
-   <td>Fully documented participant journey
-   </td>
-  </tr>
-  <tr>
-   <td>6
-   </td>
-   <td>Patchy externally focused content making it hard to demonstrate the value of the IETF to current and potential sponsors
-   </td>
-   <td>→
-   </td>
-   <td>Full set of high quality content that enables us to deliver a compelling demonstration of the value of the IETF to current and potential sponsors
-   </td>
-  </tr>
-</table>
+| # | From |  | To |
+|:---|:---|---|---|
+| 4 | No clear and supported articulation of the value proposition for the IETF/IRTF/IAB, which hampers engagement with current and potential sponsors | &rarr; | Clear, strongly supported and well articulated value proposition for the IETF/IRTF/IAB for engagement with current and potential sponsors|
+| 5 | Poor understanding of the entry points, stages and transitions of the participant journey | &rarr; |  Fully documented participant journey | 
+| 6 | Patchy externally focused content making it hard to demonstrate the value of the IETF to current and potential sponsors | &rarr; | Full set of high quality content that enables us to deliver a compelling demonstration of the value of the IETF to current and potential sponsors |
+
 
 
 The IETF/IRTF/IAB is a complicated organization/cluster of organizations (even that description is a simplification) and it is difficult both for insiders to articulate the value it provides and for outsiders to understand that value.  This is problematic for the LLC as we need to be able to create a pitch for any potential sponsor that clearly and quickly articulates what value their funding will generate both to them and the Internet, whatever their knowledge of the IETF.
