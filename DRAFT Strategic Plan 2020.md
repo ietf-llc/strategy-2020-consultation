@@ -397,7 +397,7 @@ While the funding framework has been in development we have had offers of small 
    </td>
    <td>→
    </td>
-   <td>Measures quickly in place to first reduce, then halt and then reverse the increase in total carbon footprint of IETF meetings with a set goal for a zero carbon IETF
+   <td>Data gathered on carbon footprint of IETF meetings and potential options for carbon offset
    </td>
   </tr>
   <tr>
@@ -407,7 +407,7 @@ While the funding framework has been in development we have had offers of small 
    </td>
    <td>→
    </td>
-   <td>Able to support whatever form of virtual meeting the IETF settles on and at a few months notice
+   <td>Able to support a full online IETF meeting at a few months notice
    </td>
   </tr>
   <tr>
@@ -425,14 +425,11 @@ While the funding framework has been in development we have had offers of small 
 
 Running a cycle of three global meetings per year is a difficult and expensive task, and one that is going to get harder because of four growing issues.
 
-The first issue is the increasingly adverse impact of the complex set of requirements that were developed by the community without relying on empirical data on the impact on meeting cost and venue suitability.  Data from the meetings team suggests that some of these requirements significantly reduce the number of suitable venues and that this problem is going to get worse due to the mismatch between increasing demand and the slow rate of new urban venue developments, giving venues higher bargaining power.  This issue needs to be tackled through the use of data to explain the impact of each requirement and identify and address the most problematic.
+Data from the meetings team suggests that some of the meeting requirements significantly reduce the number of suitable venues and that this problem is going to get worse due to the mismatch between increasing demand and the slow rate of new urban venue developments, giving venues higher bargaining power.  This issue needs to be tackled through the use of data to explain the impact of each requirement and identify and address the most problematic.
 
-The second issue is the increasing awareness of the carbon cost of travelling and the corporate and social stigma surrounding that.  Given the ongoing high value of in-person interaction, urgent attention should be given to measuring and mitigating this carbon cost both for future and previous meetings.
+The second issue is the increasing awareness of the carbon cost of travelling and the corporate and social stigma surrounding that.  Given the ongoing high value of in-person interaction, urgent attention should be given to measuring this carbon cost both for future and previous meetings and documenting options for carbon offset, to be shared with the community.
 
-The third issue is the medium term impact of COVID-19 and the possibility that in-person meetings may be suspended for a period and replaced with some form of virtual meeting.
-
-The fourth issue is that of the future of remote participation, which continues to improve and remains free of charge.  Potential impacts include a significant drop in in-person attendance, which may make in-person meetings unviable or greatly reduce the signal-to-noise ratio of meetings.  This area needs a plan.
-
+The final and urgent issue is the medium term impact of COVID-19 and the impact that has had with in-person meetings replaced with online meeting and the need for the LLC to put plans into place to support this, including fees, technology, support services and sponsorship.
 
 
 
