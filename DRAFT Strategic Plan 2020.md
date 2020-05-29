@@ -106,7 +106,7 @@ The focus currently is very much on developing capability and capacity rather th
    </td>
    <td>→
    </td>
-   <td>Open, annual strategy process that captures community requests/suggestions in a structured process
+   <td>Open, annual strategy process that captures community requests/suggestions in a structured process, while still allowing urgent requests at any time
    </td>
   </tr>
   <tr>
@@ -116,15 +116,15 @@ The focus currently is very much on developing capability and capacity rather th
    </td>
    <td>→
    </td>
-   <td>Policy set complete, fully bedded in and signed off by ISOC
+   <td>Policy set complete, fully bedded in and where required by our operating agreement, signed off by ISOC
    </td>
   </tr>
 </table>
 
 
-Our overall strategy process has significant scope for development.  Not all of the groups (IETF, IRTF, IAB and LLC) operate a formal strategy process and there is no process to align the outputs of those that do, though with the IESG making one appointment to the LLC board, reasonable alignment with the IESG is ensured.
+The LLC strategy process has significant scope for improvement.  Not all of the groups (IETF, IRTF, IAB and LLC) operate a formal strategy process and there is no process to align the outputs of those that do, though with the IESG making one appointment to the LLC board, reasonable alignment with the IESG is ensured.
 
-There is also no public call for community input until near the end of the strategy process and only then indirectly by soliciting feedback on the draft budget.  This requires community members to time suggestions to ensure that they get onto the agenda for the strategy process.  Often these suggestions come outside of the strategy planning process leading to a mid-course correction for the LLC with subsequent unplanned budgetary impact. 
+There is also no public call for community input until near the end of the LLC strategy process and only then indirectly by soliciting feedback on the draft budget.  This requires community members to time suggestions to ensure that they get onto the agenda for the strategy process.  Often these suggestions come outside of the strategy planning process leading to a mid-course correction for the LLC with subsequent unplanned budgetary impact. 
 
 The LLC will need to liaise with the IESG/IRSG/IAB as they follow their strategy processes, where they are formalised, with the dual aim of both offering professional support and ensuring that the LLC strategy is aligned with and supports their strategies.
 
