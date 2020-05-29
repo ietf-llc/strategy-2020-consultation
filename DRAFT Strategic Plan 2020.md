@@ -62,7 +62,7 @@ The best possible support corporation to the IETF/IRTF/IAB
 1. To support the IETF in being the standards development organisation (SDO) of choice for those who want to develop Internet protocols that deploy at scale.
 2. To support the IETF/IRTF/IAB in building a strong community of participants at all stages of the participant journey.
 3. To secure long-term funding for the LLC/IETF/IRTF/IAB that is more than sufficient to meet their plans.
-4. To ensure the value of the IETF is well articulated and well understood by supporters.
+4. To ensure the value of the IETF is well articulated and well understood by sponsors.
 5. To rapidly mature the IETF LLC into an organization that fully meets its values and has strong community support and approval.
 6. To deliver a toolchain that is up-to-date and well regarded by users.
 7. To provide the high quality planning and support services required for the IETF to hold productive meetings both in-person and online.
@@ -148,51 +148,43 @@ The LLC policy set is another key area which binds multiple parts of the IETF, a
   <tr>
    <td>4
    </td>
-   <td>No clear and supported articulation of the value proposition for the IETF/IRTF/IAB, which hampers all forms of engagement
+   <td>No clear and supported articulation of the value proposition for the IETF/IRTF/IAB, which hampers engagement with current and potential sponsors
    </td>
    <td>→
    </td>
-   <td>Clear, strongly supported and well articulated value proposition for the IETF/IRTF/IAB that supports all our engagements
+   <td>Clear, strongly supported and well articulated value proposition for the IETF/IRTF/IAB for engagement with current and potential sponsors
    </td>
   </tr>
   <tr>
    <td>5
    </td>
-   <td>Poor understanding of the entry points , stages and transitions of the participant journey
+   <td>Poor understanding of the entry points, stages and transitions of the participant journey
    </td>
    <td>→
    </td>
-   <td>Fully documented participant journey, which underpins all engagement activities and measurement
+   <td>Fully documented participant journey
    </td>
   </tr>
   <tr>
    <td>6
    </td>
-   <td>Patchy externally focused content making it hard to demonstrate the value of the IETF to many stakeholders
+   <td>Patchy externally focused content making it hard to demonstrate the value of the IETF to current and potential sponsors
    </td>
    <td>→
    </td>
-   <td>Full set of high quality content that enables us to deliver a compelling demonstration of the value of the IETF to any key stakeholder
+   <td>Full set of high quality content that enables us to deliver a compelling demonstration of the value of the IETF to current and potential sponsors
    </td>
   </tr>
 </table>
 
 
-The IETF/IRTF/IAB is a complicated organization/cluster of organizations (even that description is a simplification) and it is difficult both for insiders to articulate the value it provides and for outsiders to understand that value.  This is problematic for a number of areas of engagement:
+The IETF/IRTF/IAB is a complicated organization/cluster of organizations (even that description is a simplification) and it is difficult both for insiders to articulate the value it provides and for outsiders to understand that value.  This is problematic for the LLC as we need to be able to create a pitch for any potential sponsor that clearly and quickly articulates what value their funding will generate both to them and the Internet, whatever their knowledge of the IETF.
 
+Sponsors, in addition to supporting the IETF for the value it delivers, are also increasingly concerned about how the organisations they sponsor operate, how they treat their volunteers and staff and what opportunities they provide for a diverse range of new participants.  To be able to explain this, we need to document the participant journey, a map of the different stages of participation (e.g. newcomer, leadership), at what stages people start their participation in the IETF, how they transition between them and at what stages they end their participation.  
 
+The value proposition and participant journey together bring focus to our promotional content and with those in place we can develop significantly more content to enable us to deliver a compelling demonstration of the value of the IETF to current and potential sponsors.
 
-*   **Cutting edge technologies.**  We want to be attracting cutting-edge engineering work that is going to see wide-scale deployment on the Internet by providing a compelling case as to why the IETF is the place for them to be developed in order to reach scale. 
-*   **Newcomers.**  We need to be able to explain to newcomers what value the work they will do provides the Internet as a whole, what value their employer can expect and how they can demonstrate that and what value they get personally from their engagement.
-*   **Funding**.  We need to be able to create a pitch for any potential funders that clearly and quickly articulates what value their funding will generate both to them and the Internet, whatever their knowledge of the IETF.
-
-As the form of the value proposition is unlikely to be something many participants are familiar with, achieving acceptance let alone positive agreement could be challenging and the LLC may need to use an interim value proposition for those areas, such as funding, which would be significantly delayed otherwise.
-
-Closely linked to a value proposition, is a participant journey (aka customer journey) which documents the different stages of participation (e.g. newcomer, leadership), how people enter one of those stages and how they transition between them.  This is used as the basis for our communications and engagement (i.e. targeting specific stages).  A defined and measured participant journey is crucial to ensuring we have a long term pipeline of participants.
-
-Finally, the value proposition and participant journey bring focus to our promotional content.  We should then be in a position to develop significantly more content to enable us to deliver a compelling demonstration of the value of the IETF to any key stakeholder.
-
-
+The development of the value proposition and participant journey must be community led through the EMO directorate, most likely with significant support from the LLC.  As the form of the value proposition is unlikely to be something many participants are familiar with, achieving acceptance let alone positive agreement could be challenging and the LLC may need to use an interim value proposition for sponsor engagement if that would be significantly delayed otherwise.
 
 
 ### Transformations: Culture
