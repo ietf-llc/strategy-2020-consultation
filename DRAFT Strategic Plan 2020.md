@@ -507,7 +507,7 @@ This is likely to require significant capital investment, increased community su
 
 
 
-### Transformations: Operations
+### Transformations: LLC Operations
 
 
 <table>
@@ -534,11 +534,11 @@ This is likely to require significant capital investment, increased community su
   <tr>
    <td>24
    </td>
-   <td>Operational processes don’t take advantage of the features and efficiency gains of modern cloud apps
+   <td>Operational processes don’t take advantage of the features and efficiency gains of modern apps
    </td>
    <td>→
    </td>
-   <td>Operational processes empowered by a suite of modern, efficient and feature rich cloud apps 
+   <td>Operational processes empowered by a suite of modern, efficient and feature rich apps 
    </td>
   </tr>
 </table>
@@ -548,4 +548,4 @@ Our contract management process has a number of issues, including mismatched bid
 
 In addition, we want ongoing community engagement and support for our overall approach to contracts and key contract provisions.
 
-Our other operational processes work well but as they are largely manual they can be inefficient and won’t be able support new feature demands. This can be addressed quite easily by implementing a suite of modern cloud apps. 
+Many other LLC operational processes work well but as they are largely manual they can be inefficient and won’t be able support new feature demands. This can be addressed quite easily by implementing a suite of modern apps. 
