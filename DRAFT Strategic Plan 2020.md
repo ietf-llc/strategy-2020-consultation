@@ -5,18 +5,16 @@
 
 As set out in [RFC 8711](https://tools.ietf.org/html/rfc8711), the IETF Administration LLC (IETF LLC) was established to provide administrative support to the IETF.  It has no authority over the standards development activities of the IETF.  The responsibilities of the IETF LLC are:
 
-
 *  Operations.  The IETF LLC is responsible for supporting the ongoing operations of the IETF, including meetings and non-meeting activities.
 *  Finances.  The IETF LLC is responsible for managing the IETF's finances and budget.
 *  Fundraising.  The IETF LLC is responsible for raising money on behalf of the IETF.
 *  Compliance.  The IETF LLC is responsible for establishing and enforcing policies to ensure compliance with applicable laws, regulations, and rules.
 
 
+
 ## Introduction
 
 This Strategic Plan sets out the strategy the IETF Administration LLC aims to achieve over the next 3-5 years, within the scope of its responsibilities as set out above.  This strategy comprises the following components:
-
-
 
 1. **Linkages**.  The organisations and communities that the IETF LLC is linked to and how that linkage is the top-level driver of the IETF LLC strategy. 
 2. **Mission**.  This is a literal definition of what the IETF LLC does.  The mission rarely changes in the lifetime of the company.
@@ -25,6 +23,7 @@ This Strategic Plan sets out the strategy the IETF Administration LLC aims to ac
 5. **Strategic Transformations**.  These detail the changes that need to be made in order to achieve the strategic goals.   Each transformation details the current state and the desired state to transform into. These transformations should be achievable within 1-3 years.
 
 The next level below this Strategic Plan is the various operational plans such as the IETF Comms Plan and the ED Goals, which are where specific projects and specific measures of success are defined.
+
 
 
 ## Linkages
@@ -42,9 +41,8 @@ Furthermore, as the IETF community is a dynamic one, with leaders and other part
 The best possible support corporation to the IETF/IRTF/IAB
 
 
+
 ## Values
-
-
 
 *   **Trusted**.  The LLC will uphold the values and policies of the IETF/IRTF/IAB as if they were its own.
 *   **Transparent**.  The community can expect the LLC to keep it informed about its work and to keep comprehensive records which are public by default and only make them confidential where there is specific justification.
@@ -55,9 +53,8 @@ The best possible support corporation to the IETF/IRTF/IAB
 *   **Equitable**.  The LLC will deal with all members of the IETF community equitably regardless of sex, race, geography, culture, religion, age, health or other status.
 
 
+
 ## Strategic Goals
-
-
 
 1. To support the IETF in being the standards development organisation (SDO) of choice for those who want to develop Internet protocols that deploy at scale.
 2. To support the IETF/IRTF/IAB in building a strong community of participants at all stages of the participant journey.
@@ -70,9 +67,11 @@ The best possible support corporation to the IETF/IRTF/IAB
 The discussions on the future of the RFC Series Editor (RSE) are at too early a stage for the LLC to understand if it should have a goal relating to supporting the RSE or what that might be.
 
 
+
 ## Strategic Transformations
 
 The focus currently is very much on developing capability and capacity rather than higher level outcomes.  In part this reflects the age of the IETF LLC and in part this is because we do not have the data or even measurement mechanisms in place to assess higher level outcomes.
+
 
 
 ### Transformations: Strategic Planning
@@ -93,15 +92,14 @@ The LLC will need to liaise with the IESG/IRSG/IAB as they follow their strategy
 The LLC policy set is another key area which binds multiple parts of the IETF, and significant progress has already been made.  The next steps are to fill in the gaps, ensure the policies are fully bedded in with training and audit, and have ISOC sign them off as required in the LLC operating agreement.
 
 
-### Transformations: Engagement
 
+### Transformations: Engagement
 
 | # | From |  | To |
 |:---|:---|---|:---|
 | 4 | No clear and supported articulation of the value proposition for the IETF/IRTF/IAB, which hampers engagement with current and potential sponsors | &rarr; | Clear, strongly supported and well articulated value proposition for the IETF/IRTF/IAB for engagement with current and potential sponsors|
 | 5 | Poor understanding of the entry points, stages and transitions of the participant journey | &rarr; |  Fully documented participant journey | 
 | 6 | Patchy externally focused content making it hard to demonstrate the value of the IETF to current and potential sponsors | &rarr; | Full set of high quality content that enables us to deliver a compelling demonstration of the value of the IETF to current and potential sponsors |
-
 
 
 The IETF/IRTF/IAB is a complicated organization/cluster of organizations (even that description is a simplification) and it is difficult both for insiders to articulate the value it provides and for outsiders to understand that value.  This is problematic for the LLC as we need to be able to create a pitch for any potential sponsor that clearly and quickly articulates what value their funding will generate both to them and the Internet, whatever their knowledge of the IETF.
@@ -113,14 +111,15 @@ The value proposition and participant journey together bring focus to our promot
 The development of the value proposition and participant journey must be community led through the EMO directorate, most likely with significant support from the LLC.  As the form of the value proposition is unlikely to be something many participants are familiar with, achieving acceptance let alone positive agreement could be challenging and the LLC may need to use an interim value proposition for sponsor engagement if that would be significantly delayed otherwise.
 
 
-### Transformations: Culture
 
+### Transformations: Culture
 
 | # | From |  | To |
 |:---|:---|---|:---|
 | 7 | (For LLC services) A culture where people line up next to people with the same opinions and standing opposite those who disagree | &rarr; | (For LLC services) A culture where people line up together facing the data and working together to interpret it |
 | 8 | (For LLC services) A set of long-standing issues left in the “too hard” basket as the culture of opinion and debate cannot resolve them | &rarr; | (For LLC services) An evidence led process in place to address all long-standing issues in the “too hard” basket. |
-| 9 Insufficient data on participants and their activities, motivations and expectations to support an evidence-led culture | &rarr; | Sufficient high-quality data on participants their activities, motivations, expectations, etc to support an evidence-led culture |
+| 9 | Insufficient data on participants and their activities, motivations and expectations to support an evidence-led culture | &rarr; | Sufficient high-quality data on participants their activities, motivations, expectations, etc to support an evidence-led culture |
+
 
 With particular regard to the services that are provided to participants by the LLC, a culture has built up where decisions are taken more on the basis of opinion and debate than evidence.  For example, someone has a good idea that we should provide X for participants and rather than ask participants if they want X, how they already obtain it and if it is a priority for them, a debate takes place on the merits of us providing it or not.  Sometimes this debate results in stalemate and issues get put into the “too hard” basket as a result.
 
@@ -130,9 +129,7 @@ We already have some data available, such as stats on meeting attendees and the 
 
 
 
-
 ### Transformations: Performance
-
 
 | # | From |  | To |
 |:---|:---|---|:---|
@@ -142,26 +139,18 @@ We already have some data available, such as stats on meeting attendees and the 
 
 By measuring key areas of our operations and then benchmarking those against comparable organisations we can identify if any of those areas could be improved.  While some areas are measured in some ways, this is far from comprehensive, and benchmarking has only been ad-hoc and against a small number of factors.
 
- 
-
 The desired outcome is that 
-
-
 
 *   we have identified the key areas of our operations and a range of factors we want to measure for them
 *   these key areas are measured regularly and in a comparable way
 *   we regularly benchmark these measurements against comparable organisations
 *   the results of this measure drive a review and improvement process.
 
- 
-
 There may be an existing group of SDOs that share benchmarking data.
 
 
 
-
 ### Transformations: Funding
-
 
 | # | From |  | To |
 |:---|:---|---|:---|
@@ -178,6 +167,7 @@ Even with the ISOC contribution secured, the risk would remain to our funding, w
 An important next step is for us to put this all down into a funding framework document that we can both use internally and share with existing and potential donors to eliminate confusion and provide assurance that all donations will be well used.
 
 While the funding framework has been in development we have had offers of small amounts of money from a number of sources that we have not been able to take up as the appropriate “buckets” to receive the money have not been available.  New options for donation need to be added, including taking small recurring donations from individuals and accepting donations at registration time.
+
 
 
 ### Transformations: Meetings
@@ -202,7 +192,6 @@ The final and urgent issue is the medium term impact of COVID-19 and the impact 
 
 ### Transformations: Tools
 
-
 | # | From |  | To |
 |:---|:---|---|:---|
 | 20 | Tools development is concentrated around a few people and has poor accessibility to others | &rarr; | Tools area highly accessible with many people informed, contributing and involved in all levels of decision making |
@@ -226,6 +215,7 @@ Overall, the level of work required is likely to require significant capital inv
 |:---|:---|---|:---|
 | 23 | RFP process has multiple issues, there is no contract performance framework and community engagement is limited | &rarr; | Best practice RFP management process with formal contract performance framework and good community engagement |
 | 24 | Operational processes don’t take advantage of the features and efficiency gains of modern apps | &rarr; | Operational processes empowered by a suite of modern, efficient and feature rich apps |
+
 
 Our contract management process has a number of issues, including mismatched bidder expectations, low volume of bids, complex negotiation phase, poor tracking and transparency and no formal process for performance management.  All of this needs to be addressed in a new process, which follows current best practice. 
 
