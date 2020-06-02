@@ -168,7 +168,7 @@ There may be an existing group of SDOs that share benchmarking data.
 | 12 |ISOC funding not formally guaranteed for the long term | &rarr; | Long term funding guarantee from ISOC. |
 | 13 | While the majority of our funding comes through multiple sources (ISOC and global sponsors) it relies on a small number of interconnected industries | &rarr; | Funding comes from multiples sources that are not interconnected |
 | 14 | Limited number of ways in which we can receive funds and so we are leaving too much on the table. | &rarr; | Multiple “buckets” will be set up to receive funds, with multiple opportunities for contributions to be received |
-| 15 | Lack of clarity on why we need additional income, how much and in what form | &rarr; | Clearly understood and documented funding framework that sets out what income we seek, from where and in what form |
+| 15 | Lack of clarity on whether or not we need additional income, how much and in what form | &rarr; | Clearly understood and documented funding framework that sets out what income we seek, from where and in what form |
 
 
 ISOC currently contributes close to 50% of our funding and while they clearly expect to continue with this for many years, there is no formal guarantee of that.  The lack of such a guarantee means there is notionally a non-zero risk of a significant drop in income, which a professional board should mitigate.  This mitigation would be a major strategy for the LLC, expensive and resource intensive, all of which could be avoided if ISOC were to formalise its commitment into a long-term guarantee.
