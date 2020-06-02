@@ -190,7 +190,7 @@ While the funding framework has been in development we have had offers of small 
 | 19 | Unclear what the impact is of increasing remote participation or what the goal for it is | &rarr; |Clear goal for remote participation, with a clear plan for managing the impact | 
 
 
-Running a cycle of three global meetings per year is a difficult and expensive task, and one that is going to get harder because of four growing issues.
+Running a cycle of three global meetings per year is a difficult and expensive task, and one that is going to get harder because of three growing issues.
 
 Data from the meetings team suggests that some of the meeting requirements significantly reduce the number of suitable venues and that this problem is going to get worse due to the mismatch between increasing demand and the slow rate of new urban venue developments, giving venues higher bargaining power.  This issue needs to be tackled through the use of data to explain the impact of each requirement and identify and address the most problematic.
 
