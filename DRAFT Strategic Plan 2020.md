@@ -134,38 +134,10 @@ We already have some data available, such as stats on meeting attendees and the 
 ### Transformations: Performance
 
 
-<table>
-  <tr>
-   <td><strong>#</strong>
-   </td>
-   <td><strong>From</strong>
-   </td>
-   <td><strong> </strong>
-   </td>
-   <td><strong>To</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>10
-   </td>
-   <td>Several key areas of our operations are unmeasured
-   </td>
-   <td>→
-   </td>
-   <td>All key areas of our operations are measured in a comparable way 
-   </td>
-  </tr>
-  <tr>
-   <td>11
-   </td>
-   <td>Insufficient benchmarking against comparable organisations including other SDOs
-   </td>
-   <td>→
-   </td>
-   <td>All key areas of our operations are benchmarked against comparable organisations including other SDOs and that data is used to drive improvements.
-   </td>
-  </tr>
-</table>
+| # | From |  | To |
+|:---|:---|---|:---|
+| 10 | Several key areas of our operations are unmeasured | &rarr; |All key areas of our operations are measured in a comparable way |
+| 11 | Insufficient benchmarking against comparable organisations including other SDOs | &rarr; | All key areas of our operations are benchmarked against comparable organisations including other SDOs and that data is used to drive improvements. |
 
 
 By measuring key areas of our operations and then benchmarking those against comparable organisations we can identify if any of those areas could be improved.  While some areas are measured in some ways, this is far from comprehensive, and benchmarking has only been ad-hoc and against a small number of factors.
