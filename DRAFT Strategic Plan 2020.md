@@ -64,7 +64,7 @@ The best possible support corporation to the IETF/IRTF/IAB
 3. To secure long-term funding for the LLC/IETF/IRTF/IAB that is more than sufficient to meet their plans.
 4. To ensure the value of the IETF is well articulated and well understood by sponsors.
 5. To rapidly mature the IETF LLC into an organization that fully meets its values and has strong community support and approval.
-6. To deliver a toolchain that is up-to-date and well regarded by users.
+6. To deliver a toolchain that is up-to-date, efficient and well regarded by users.
 7. To provide the high quality planning and support services required for the IETF to hold productive meetings both in-person and online.
 
 The discussions on the future of the RFC Series Editor (RSE) are at too early a stage for the LLC to understand if it should have a goal relating to supporting the RSE or what that might be.
