@@ -127,6 +127,8 @@ We need to shift from this to a culture where data, where possible, is the start
 
 We already have some data available, such as stats on meeting attendees and the post-meeting survey, but making this cultural change requires much more data.  For example, there is a big set of questions on non-participation and barriers to participation which are crucial to providing better service to the community overall. Obtaining this data will require a wide ranging plan backed up with a major programme of surveys and technical analysis.
 
+This collection of data needs to be mindful of the privacy of individuals and the policy set out in the IETF/IRTF/IAB Privacy Statement.
+
 
 
 ### Transformations: Performance
