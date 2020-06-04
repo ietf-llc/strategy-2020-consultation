@@ -98,13 +98,13 @@ The LLC policy set is another key area which binds multiple parts of the IETF, a
 | # | From |  | To |
 |:---|:---|---|:---|
 | 4 | No clear and supported articulation of the value proposition for the IETF/IRTF/IAB, which hampers engagement with current and potential sponsors | &rarr; | Clear, strongly supported and well articulated value proposition for the IETF/IRTF/IAB for engagement with current and potential sponsors|
-| 5 | Poor understanding of the entry points, stages and transitions of the participant journey | &rarr; |  Fully documented participant journey | 
+| 5 | Poor understanding of the entry points, stages and transitions of the participant journey | &rarr; |  Documented understanding of the entry points, stages and transitions of the participant journey | 
 | 6 | Patchy externally focused content making it hard to demonstrate the value of the IETF to current and potential sponsors | &rarr; | Full set of high quality content that enables us to deliver a compelling demonstration of the value of the IETF to current and potential sponsors |
 
 
 The IETF/IRTF/IAB is a complicated organization/cluster of organizations (even that description is a simplification) and it is difficult both for insiders to articulate the value it provides and for outsiders to understand that value.  This is problematic for the LLC as we need to be able to create a pitch for any potential sponsor that clearly and quickly articulates what value their funding will generate both to them and the Internet, whatever their knowledge of the IETF.
 
-Sponsors, in addition to supporting the IETF for the value it delivers, are also increasingly concerned about how the organisations they sponsor operate, how they treat their volunteers and staff and what opportunities they provide for a diverse range of new participants.  To be able to explain this, we need to document the participant journey, a map of the different stages of participation (e.g. newcomer, leadership), at what stages people start their participation in the IETF, how they transition between them and at what stages they end their participation.  
+Sponsors, in addition to supporting the IETF for the value it delivers, are also increasingly concerned about how the organisations they sponsor operate, how they treat their volunteers and staff and what opportunities they provide for a diverse range of new participants.  To be able to explain this, we need to document the participant journey (more commonly called a 'User Journey' in user experience analysis terminology).  This is a map of the different stages of participation (e.g. newcomer, leadership), showing at what stages people start their participation in the IETF, why and how they choose to transition between them and at what stages they end their participation. Note, the word 'journey' does not imply any form of career- or value-based progression. 
 
 The value proposition and participant journey together bring focus to our promotional content and with those in place we can develop significantly more content to enable us to deliver a compelling demonstration of the value of the IETF to current and potential sponsors.
 
