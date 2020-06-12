@@ -176,7 +176,7 @@ While the funding framework has been in development we have had offers of small 
 
 | # | From |  | To |
 |:---|:---|---|:---|
-| 16 | Meeting requirements set without a shared understanding of how difficult some make the process of selecting a venue. | &rarr; | The meeting requirements are set in full knowledge of their impact on venue selection and meeting costs |
+| 16 | No feedback loop from LLC to the community regarding the impact of meeting requirements on selecting a venue | &rarr; | Regular data-driven feedback loop from the LLC to the community regarding the impact of meeting requirements on selecting a venue and those requirements being adapted in response |
 | 17 | Unknown but presumably significant, carbon footprint for individual IETF meetings and very large total carbon footprint from all historical meetings | &rarr; | Data gathered on carbon footprint of IETF meetings and potential options for carbon offset |
 | 18 | Unclear what form of a fully virtual meeting we can support, if any, and how long it would take to arrange | &rarr; | Able to support a full online IETF meeting at a few months notice |
 | 19 | Unclear what the impact is of increasing remote participation or what the goal for it is | &rarr; |Clear goal for remote participation, with a clear plan for managing the impact | 
