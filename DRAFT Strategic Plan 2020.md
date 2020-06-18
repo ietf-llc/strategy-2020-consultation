@@ -30,7 +30,7 @@ The next level below this Strategic Plan is the various operational plans such a
 
 As set out in [RFC 8711](https://tools.ietf.org/html/rfc8711), the IETF LLC provides the corporate legal home for the IETF, the Internet Architecture Board (IAB), and the Internet Research Task Force (IRTF), and financial support for the operation of the RFC Editor.  In addition the IETF LLC provides financial support for the operation of the IETF Trust.
 
-Consequently, this strategic plan should ideally clearly reflect the strategies of the IETF/IRTF/IAB.  However, as those are neither well understood nor well defined, these are extrapolated from IETF/IRTF/IAB expressed administrative needs and desires.  
+Consequently, this strategic plan should ideally clearly reflect the plans and goals of the IETF/IRTF/IAB, where they exist.  
 
 Furthermore, as the IETF community is a dynamic one, with leaders and other participants changing at a higher rate than the 3-5 year horizon of this strategic plan, the IETF LLC commits that it will adjust this plan should IETF consensus shift
 
@@ -78,7 +78,7 @@ The focus currently is very much on developing capability and capacity rather th
 
 | # | From |  | To |
 |:---|:---|---|:---|
-| 1 | Varying levels of strategic planning across IESG, IRSG, IAB and LLC with only loose strategic alignment between individual strategic objectives| &rarr; | LLC strategy closely aligned with the strategic objectives of IESG, IRSG and IAB|
+| 1 | Varying levels of strategic planning across IESG, IRSG, IAB and LLC with only loose strategic alignment between individual strategic goals| &rarr; | LLC strategy closely aligned with the plans and goals, where they exist, of IESG, IRSG and IAB|
 | 2 | Multiple demands for spending throughout the year from individual requests and suggestions | &rarr; | Open, annual strategy process that captures community requests/suggestions in a structured process, while still allowing urgent requests at any time|
 | 3 | Policy set partially complete and not yet bedded in | &rarr; | Policy set complete, fully bedded in and where required by our operating agreement, signed off by ISOC |
 
@@ -87,7 +87,7 @@ The LLC strategy process has significant scope for improvement.  Not all of the 
 
 There is also no public call for community input until near the end of the LLC strategy process and only then indirectly by soliciting feedback on the draft budget.  This requires community members to time suggestions to ensure that they get onto the agenda for the strategy process.  Often these suggestions come outside of the strategy planning process leading to a mid-course correction for the LLC with subsequent unplanned budgetary impact. 
 
-The LLC will need to liaise with the IESG/IRSG/IAB as they follow their strategy processes, where they are formalised, with the dual aim of both offering professional support and ensuring that the LLC strategy is aligned with and supports their strategies.
+The LLC will need to liaise with the IESG/IRSG/IAB if they follow a strategy process, with the dual aim of offering professional support and ensuring that the LLC strategy is aligned with any outcomes.
 
 The LLC policy set is another key area which binds multiple parts of the IETF, and significant progress has already been made.  The next steps are to fill in the gaps, ensure the policies are fully bedded in with training and audit, and have ISOC sign them off as required in the LLC operating agreement.
 
