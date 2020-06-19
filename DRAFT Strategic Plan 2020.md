@@ -30,7 +30,7 @@ The next level below this Strategic Plan is the various operational plans such a
 
 As set out in [RFC 8711](https://tools.ietf.org/html/rfc8711), the IETF LLC provides the corporate legal home for the IETF, the Internet Architecture Board (IAB), and the Internet Research Task Force (IRTF), and financial support for the operation of the RFC Editor.  In addition the IETF LLC provides financial support for the operation of the IETF Trust.
 
-Consequently, this strategic plan should ideally clearly reflect the strategies of the IETF/IRTF/IAB.  However, as those are neither well understood nor well defined, these are extrapolated from IETF/IRTF/IAB expressed administrative needs and desires.  
+Consequently, this strategic plan should ideally clearly reflect the plans and goals of the IETF/IRTF/IAB, where they exist.  
 
 Furthermore, as the IETF community is a dynamic one, with leaders and other participants changing at a higher rate than the 3-5 year horizon of this strategic plan, the IETF LLC commits that it will adjust this plan should IETF consensus shift
 
@@ -78,7 +78,7 @@ The focus currently is very much on developing capability and capacity rather th
 
 | # | From |  | To |
 |:---|:---|---|:---|
-| 1 | Varying levels of strategic planning across IESG, IRSG, IAB and LLC with only loose strategic alignment between individual strategic objectives| &rarr; | LLC strategy closely aligned with the strategic objectives of IESG, IRSG and IAB|
+| 1 | Varying levels of strategic planning across IESG, IRSG, IAB and LLC with only loose strategic alignment between individual strategic goals| &rarr; | LLC strategy closely aligned with the plans and goals, where they exist, of IESG, IRSG and IAB|
 | 2 | Multiple demands for spending throughout the year from individual requests and suggestions | &rarr; | Open, annual strategy process that captures community requests/suggestions in a structured process, while still allowing urgent requests at any time|
 | 3 | Policy set partially complete and not yet bedded in | &rarr; | Policy set complete, fully bedded in and where required by our operating agreement, signed off by ISOC |
 
@@ -87,7 +87,7 @@ The LLC strategy process has significant scope for improvement.  Not all of the 
 
 There is also no public call for community input until near the end of the LLC strategy process and only then indirectly by soliciting feedback on the draft budget.  This requires community members to time suggestions to ensure that they get onto the agenda for the strategy process.  Often these suggestions come outside of the strategy planning process leading to a mid-course correction for the LLC with subsequent unplanned budgetary impact. 
 
-The LLC will need to liaise with the IESG/IRSG/IAB as they follow their strategy processes, where they are formalised, with the dual aim of both offering professional support and ensuring that the LLC strategy is aligned with and supports their strategies.
+The LLC will need to liaise with the IESG/IRSG/IAB if they follow a strategy process, with the dual aim of offering professional support and ensuring that the LLC strategy is aligned with any outcomes.
 
 The LLC policy set is another key area which binds multiple parts of the IETF, and significant progress has already been made.  The next steps are to fill in the gaps, ensure the policies are fully bedded in with training and audit, and have ISOC sign them off as required in the LLC operating agreement.
 
@@ -119,6 +119,7 @@ The development of the value proposition and participant journey must be communi
 | 7 | (For LLC services) A culture where people line up next to people with the same opinions and standing opposite those who disagree | &rarr; | (For LLC services) A culture where people line up together facing the data and working together to interpret it |
 | 8 | (For LLC services) A set of long-standing issues left in the “too hard” basket as the culture of opinion and debate cannot resolve them | &rarr; | (For LLC services) An evidence led process in place to address all long-standing issues in the “too hard” basket. |
 | 9 | Insufficient data on participants and their activities, motivations and expectations to support an evidence-led culture | &rarr; | Sufficient high-quality data on participants their activities, motivations, expectations, etc to support an evidence-led culture |
+| 10 | Requirements for LLC services sometimes expressed without clearly articulated goals | &rarr; | Requirements for LLC services always expressed in terms of clearly articulated goals |
 
 
 With particular regard to the services that are provided to participants by the LLC, a culture has built up where decisions are taken more on the basis of opinion and debate than evidence.  For example, someone has a good idea that we should provide X for participants and rather than ask participants if they want X, how they already obtain it and if it is a priority for them, a debate takes place on the merits of us providing it or not.  Sometimes this debate results in stalemate and issues get put into the “too hard” basket as a result.
@@ -129,14 +130,16 @@ We already have some data available, such as stats on meeting attendees and the 
 
 This collection of data needs to be mindful of the privacy of individuals and the policy set out in the IETF/IRTF/IAB Privacy Statement.
 
+While the data is important, it is the means, not the ends.  Every time someone makes a specific proposal regarding LLC services they should be able to lay out a high-level "value" proposition: If it is truly a "good idea", then it should be easy to articulate what strategic goal it achieves.
+
 
 
 ### Transformations: Performance
 
 | # | From |  | To |
 |:---|:---|---|:---|
-| 10 | Several key areas of our operations are unmeasured | &rarr; |All key areas of our operations are measured in a comparable way |
-| 11 | Insufficient benchmarking against comparable organisations including other SDOs | &rarr; | All key areas of our operations are benchmarked against comparable organisations including other SDOs and that data is used to drive improvements. |
+| 11 | Several key areas of our operations are unmeasured | &rarr; |All key areas of our operations are measured in a comparable way |
+| 12 | Insufficient benchmarking against comparable organisations including other SDOs | &rarr; | All key areas of our operations are benchmarked against comparable organisations including other SDOs and that data is used to drive improvements. |
 
 
 By measuring key areas of our operations and then benchmarking those against comparable organisations we can identify if any of those areas could be improved.  While some areas are measured in some ways, this is far from comprehensive, and benchmarking has only been ad-hoc and against a small number of factors.
@@ -156,10 +159,10 @@ There may be an existing group of SDOs that share benchmarking data.
 
 | # | From |  | To |
 |:---|:---|---|:---|
-| 12 |ISOC funding not formally guaranteed for the long term | &rarr; | Long term funding guarantee from ISOC. |
-| 13 | While the majority of our funding comes through multiple sources (ISOC and global sponsors) it relies on a small number of interconnected industries | &rarr; | Funding comes from multiples sources that are not interconnected |
-| 14 | Limited number of ways in which we can receive funds and so we are leaving too much on the table. | &rarr; | Multiple “buckets” will be set up to receive funds, with multiple opportunities for contributions to be received |
-| 15 | Lack of clarity on whether or not we need additional income, how much and in what form | &rarr; | Clearly understood and documented funding framework that sets out what income we seek, from where and in what form |
+| 13 |ISOC funding not formally guaranteed for the long term | &rarr; | Long term funding guarantee from ISOC. |
+| 14 | While the majority of our funding comes through multiple sources (ISOC and global sponsors) it relies on a small number of interconnected industries | &rarr; | Funding comes from multiples sources that are not interconnected |
+| 15 | Limited number of ways in which we can receive funds and so we are leaving too much on the table. | &rarr; | Multiple “buckets” will be set up to receive funds, with multiple opportunities for contributions to be received |
+| 16 | Lack of clarity on whether or not we need additional income, how much and in what form | &rarr; | Clearly understood and documented funding framework that sets out what income we seek, from where and in what form |
 
 
 ISOC currently contributes close to 50% of our funding and while they clearly expect to continue with this for many years, there is no formal guarantee of that.  The lack of such a guarantee means there is notionally a non-zero risk of a significant drop in income, which a professional board should mitigate.  This mitigation would be a major strategy for the LLC, expensive and resource intensive, all of which could be avoided if ISOC were to formalise its commitment into a long-term guarantee.
@@ -176,10 +179,10 @@ While the funding framework has been in development we have had offers of small 
 
 | # | From |  | To |
 |:---|:---|---|:---|
-| 16 | No feedback loop from LLC to the community regarding the impact of meeting requirements on selecting a venue | &rarr; | Regular data-driven feedback loop from the LLC to the community regarding the impact of meeting requirements on selecting a venue and those requirements being adapted in response |
-| 17 | Unknown but presumably significant, carbon footprint for individual IETF meetings and very large total carbon footprint from all historical meetings | &rarr; | Data gathered on carbon footprint of IETF meetings and potential options for carbon offset |
-| 18 | Unclear what form of a fully virtual meeting we can support, if any, and how long it would take to arrange | &rarr; | Able to support a full online IETF meeting at a few months notice |
-| 19 | Unclear what the impact is of increasing remote participation or what the goal for it is | &rarr; |Clear goal for remote participation, with a clear plan for managing the impact | 
+| 17 | No feedback loop from LLC to the community regarding the impact of meeting requirements on selecting a venue | &rarr; | Regular data-driven feedback loop from the LLC to the community regarding the impact of meeting requirements on selecting a venue and those requirements being adapted in response |
+| 18 | Unknown but presumably significant, carbon footprint for individual IETF meetings and very large total carbon footprint from all historical meetings | &rarr; | Data gathered on carbon footprint of IETF meetings and potential options for carbon offset |
+| 19 | Unclear what form of a fully virtual meeting we can support, if any, and how long it would take to arrange | &rarr; | Able to support a full online IETF meeting at a few months notice |
+| 20 | Unclear what the impact is of increasing remote participation or what the goal for it is | &rarr; |Clear goal for remote participation, with a clear plan for managing the impact | 
 
 
 Running a cycle of three global meetings per year is a difficult and expensive task, and one that is going to get harder because of three growing issues.
@@ -196,10 +199,10 @@ The final and urgent issue is the medium term impact of COVID-19 and the impact 
 
 | # | From |  | To |
 |:---|:---|---|:---|
-| 20 | Tools development is concentrated around a few people and has poor accessibility to others | &rarr; | Tools area highly accessible with many people informed, contributing and involved in all levels of decision making |
-| 21 | Tools development has had limited big picture overview at both the architectural and user experience level | &rarr; | Tools development implements the high-level requirements generated by the Tools Architecture and Strategy Team |
-| 22 | Transition from volunteers to contractors for developing in-house tools has stressed existing mechanisms for solution design and work prioritisation | &rarr; | New mechanisms in place for tools solution design and prioritising tools work, with greater community support, throughput and transparency |
-| 23 | Inconsistent understanding and documentation of user flows for common tasks | &rarr; | Good understanding and documentation of user flows for all common tasks |
+| 21 | Tools development is concentrated around a few people and has poor accessibility to others | &rarr; | Tools area highly accessible with many people informed, contributing and involved in all levels of decision making |
+| 22 | Tools development has had limited big picture overview at both the architectural and user experience level | &rarr; | Tools development implements the high-level requirements generated by the Tools Architecture and Strategy Team |
+| 23 | Transition from volunteers to contractors for developing in-house tools has stressed existing mechanisms for solution design and work prioritisation | &rarr; | New mechanisms in place for tools solution design and prioritising tools work, with greater community support, throughput and transparency |
+| 24 | Inconsistent understanding and documentation of user flows for common tasks | &rarr; | Good understanding and documentation of user flows for all common tasks |
 
 
 The area of IETF tools has grown organically over many years and due largely to the contribution of a small number of people.  This has delivered valuable functionality and we have a well supported, productive and featured-packed toolchain. 
@@ -218,8 +221,8 @@ Additionally, some work is needed in analysing and documenting existing user flo
 
 | # | From |  | To |
 |:---|:---|---|:---|
-| 24 | RFP process has multiple issues, there is no contract performance framework and community engagement is limited | &rarr; | Best practice RFP management process with formal contract performance framework and good community engagement |
-| 25 | Operational processes don’t take advantage of the features and efficiency gains of modern apps | &rarr; | Operational processes empowered by a suite of modern, efficient and feature rich apps |
+| 25 | RFP process has multiple issues, there is no contract performance framework and community engagement is limited | &rarr; | Best practice RFP management process with formal contract performance framework and good community engagement |
+| 26 | Operational processes don’t take advantage of the features and efficiency gains of modern apps | &rarr; | Operational processes empowered by a suite of modern, efficient and feature rich apps |
 
 
 Our contract management process has a number of issues, including mismatched bidder expectations, low volume of bids, complex negotiation phase, poor tracking and transparency and no formal process for performance management.  All of this needs to be addressed in a new process, which follows current best practice. 
