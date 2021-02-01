@@ -1,3 +1,5 @@
+**THIS CONSULTATION HAS NOW CLOSED**
+
 The IETF Administration LLC has prepared its Draft Strategic Plan 2020 [1].  This is a significant expansion on the previous IETF LLC strategy and is intended to provide a comprehensive strategy both for the 2020 fiscal year and the long term.
 
 The strategic plan is made up of the following elements, all of which are being presented for comment:
